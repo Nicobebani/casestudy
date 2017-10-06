@@ -1,6 +1,6 @@
 
 #initialisation de l'environnement de travail
-setwd("~/Desktop/LogicielR")
+setwd("~/Desktop/Repertoire")
 
 #Lecture du fichier contenant notre jeu de données
 voit <- read.csv2("Etude.csv", header = TRUE)
